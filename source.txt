@@ -1,0 +1,5 @@
+Shape, Dimension, Label
+Square, 10, Box
+Circle, 5, Chair
+Square, 5, Chair
+Triangle, 20, Cupboard
